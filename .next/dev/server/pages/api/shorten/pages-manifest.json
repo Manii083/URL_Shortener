@@ -1,0 +1,3 @@
+{
+  "/api/shorten": "pages/api/shorten.js"
+}
